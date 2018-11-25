@@ -1,1 +1,3 @@
-# moving_pendulum
+#pendulum
+
+This code stimulates the motion of a pendulum
